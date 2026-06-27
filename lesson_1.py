@@ -1,1 +1,2 @@
-print("Hello Python")
+# To print a statement
+print("Hello world")
